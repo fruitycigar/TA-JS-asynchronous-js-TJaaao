@@ -8,6 +8,8 @@ setTimeout(() => console.log('Second'), 0);
 console.log('Third');
 ```
 
+<!-- Will do later -->
+
 2.
 
 ```js
@@ -19,6 +21,8 @@ setTimeout(secondCall, 2000); // execute this code after 1000 ms
 setTimeout(() => console.log('Third'), 0); // execute this code after 1000 ms
 console.log('Third');
 ```
+
+<!-- Will do later -->
 
 3.
 
@@ -32,6 +36,8 @@ setTimeout(() => console.log('Third'), 0);
 console.log('Fourth');
 ```
 
+<!-- Will do later -->
+
 4.
 
 ```js
@@ -43,6 +49,8 @@ setTimeout(secondCall, 1000); // execute this code after 1000 ms
 setTimeout(() => console.log('Third'), 0);
 console.log('Fourth');
 ```
+
+<!-- Will do later -->
 
 5. What will be the output of the code below and why? Also write the timing of the output starting with 0 ms.
 
@@ -62,6 +70,8 @@ runWhileLoopForNSeconds(3);
 console.log('Third');
 ```
 
+<!-- Will do later -->
+
 6. Convert the synchronous code given below into asynchronous. If you execute this code it will print one, two and three. Change the code in such a way that it should print `one`, `three` and `two`. You are not allowed to move the code up and down.
 
 ```js
@@ -70,6 +80,9 @@ console.log('two');
 console.log('three');
 ```
 
+<!-- Will do later -->
+
+
 7. Convert the synchronous code given below into asynchronous. If you execute this code it will print one, two and three. Change the code in such a way that it should print `one`, `three` and `two`. You are not allowed to move the code up and down.
 
 ```js
@@ -77,6 +90,8 @@ console.log('one');
 console.log('two');
 console.log('three');
 ```
+
+<!-- Will do later -->
 
 8. Write a function named `asyncForEach` that is similar to `forEach`. But `asyncForEach` is asynchronous in nature rather than synchronous.
 
@@ -94,6 +109,8 @@ asyncForEach([1, 2, 3], (num) => console.log(num));
 console.log('three');
 ```
 
+<!-- Will do later -->
+
 9. Convert the following function into asynchronous. The output of the function will be
 
 <!-- First Call -->
@@ -108,6 +125,8 @@ Convert the code below in such way that the output should be the one below
 
 ```js
 console.log('First Call');
-[1, 2, 3, 4, 5].firEach((num) => console.log(num));
+[1, 2, 3, 4, 5].forEach((num) => console.log(num));
 console.log('Last Call');
 ```
+
+<!-- Will do later -->
