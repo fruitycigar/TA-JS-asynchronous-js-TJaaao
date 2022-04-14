@@ -62,9 +62,12 @@ h1 {
 .container {
     max-width: 80%;
     margin: 0 auto;
+    text-align: center;
 }
 
 input {
+    margin: 40px 0;
     text-align: center;
-    margin: auto;
+    width: 160px;
+    padding: 3px;
 }
