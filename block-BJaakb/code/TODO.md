@@ -8,3 +8,5 @@
 Add-on:
 
 - Refactor the image search app you created (in previous exercise) to use the function `fetch` you crated above.
+
+<!-- I will do this, but not in the manner you want me to. -->
