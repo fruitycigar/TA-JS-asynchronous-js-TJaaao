@@ -9,3 +9,5 @@
 - Each character being displayed in the popup will display `name`, `gender`, `aliases` and `tvSeries` they are a part of.
 - The popup will also have a cross icon. Once clicked it will close the popup.
 - Handle error and show loading indicator when ever data is fetched.
+
+<!-- I'll return for you later, old friend. -->
