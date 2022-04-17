@@ -32,3 +32,5 @@ Promise.all([
   { name: 'John' },
 ]).then(console.log);
 ```
+
+<!-- More promises stuff. Come back soon xoxo -->
